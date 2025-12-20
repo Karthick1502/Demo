@@ -5,9 +5,7 @@ package com.demo;
  */
 public class App {
     public static void main(String[] args) {
-
-        System.out.println();
-        System.out.println("AM102");
-       System.out.println();
+    	System.out.println("this is AM102 changes");
+    	System.out.println("this is AM102 changes 2nd line ");
     }
 }

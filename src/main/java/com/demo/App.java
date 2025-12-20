@@ -12,5 +12,6 @@ public class App {
     	System.out.println("this is AM102 changes 5nd line ");
     	System.out.println("this is AM102 changes 6nd line ");
     	System.out.println("main changes");
+    	System.out.println("main3");
     }
 }
